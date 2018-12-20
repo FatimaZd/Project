@@ -8,8 +8,9 @@ namespace Project
 {
     class Program
     {
-        static void Main(string[] args)gujhghjghj
+        static void Main(string[] args)
         {
+            y4eyhy
         }
     }
 }
